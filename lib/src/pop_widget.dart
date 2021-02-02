@@ -5,8 +5,8 @@
  * @Descripttion: 气泡弹出
  */
 import 'package:flutter/material.dart';
-import 'package:popup_widget/pop_route.dart';
-import 'package:popup_widget/popup_tip.dart';
+import 'package:popup_widget/src/pop_route.dart';
+import 'package:popup_widget/src/popup_tip.dart';
 
 class PopupWidget extends StatelessWidget {
   /// 子组件
