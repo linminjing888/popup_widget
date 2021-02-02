@@ -1,6 +1,6 @@
 name: popup_widget
-description: 气泡弹出UI
-version: 0.1.0
+description: A pop-up bubble text component, lightweight, easy to use.
+version: 0.1.1
 homepage: https://github.com/linminjing888
 
 environment:
