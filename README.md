@@ -8,6 +8,8 @@ A pop-up bubble text component, lightweight, easy to use.
 
 ![img2](popup_two.png) 
 
+## Example
+
 ```
 PopupWidget(
     child: Icon(Icons.help_outline, size: 16, color: Colors.blue),
@@ -17,6 +19,6 @@ PopupWidget(
 ```
 
 ## Contact
-Github：[Github](https://github.com/linminjing888/popup_widget)
+Github：[Github](https://github.com/linminjing888/popup_widget)  
 掘金：[minjing_lin](https://juejin.cn/user/1961184474981688)
 

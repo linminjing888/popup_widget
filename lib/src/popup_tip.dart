@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:popup_widget/popup_triangle_painter.dart';
+import 'package:popup_widget/src/popup_triangle_painter.dart';
 
 /// 气泡UI
 class PopupTip extends StatelessWidget {
